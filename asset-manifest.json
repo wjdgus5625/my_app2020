@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/wjdgus5625.github.io/my_app2020/static/css/main.ddd4fcb3.chunk.css",
-    "main.js": "/wjdgus5625.github.io/my_app2020/static/js/main.1e0d9ba7.chunk.js",
-    "main.js.map": "/wjdgus5625.github.io/my_app2020/static/js/main.1e0d9ba7.chunk.js.map",
-    "runtime-main.js": "/wjdgus5625.github.io/my_app2020/static/js/runtime-main.62c30c6f.js",
-    "runtime-main.js.map": "/wjdgus5625.github.io/my_app2020/static/js/runtime-main.62c30c6f.js.map",
-    "static/js/2.85b5f1be.chunk.js": "/wjdgus5625.github.io/my_app2020/static/js/2.85b5f1be.chunk.js",
-    "static/js/2.85b5f1be.chunk.js.map": "/wjdgus5625.github.io/my_app2020/static/js/2.85b5f1be.chunk.js.map",
-    "index.html": "/wjdgus5625.github.io/my_app2020/index.html",
-    "precache-manifest.cca6555b8d19db88a7616fe82106a89f.js": "/wjdgus5625.github.io/my_app2020/precache-manifest.cca6555b8d19db88a7616fe82106a89f.js",
-    "service-worker.js": "/wjdgus5625.github.io/my_app2020/service-worker.js",
-    "static/css/main.ddd4fcb3.chunk.css.map": "/wjdgus5625.github.io/my_app2020/static/css/main.ddd4fcb3.chunk.css.map",
-    "static/js/2.85b5f1be.chunk.js.LICENSE": "/wjdgus5625.github.io/my_app2020/static/js/2.85b5f1be.chunk.js.LICENSE"
+    "main.css": "/my_app2020/static/css/main.ddd4fcb3.chunk.css",
+    "main.js": "/my_app2020/static/js/main.1e0d9ba7.chunk.js",
+    "main.js.map": "/my_app2020/static/js/main.1e0d9ba7.chunk.js.map",
+    "runtime-main.js": "/my_app2020/static/js/runtime-main.2f1d4cf7.js",
+    "runtime-main.js.map": "/my_app2020/static/js/runtime-main.2f1d4cf7.js.map",
+    "static/js/2.85b5f1be.chunk.js": "/my_app2020/static/js/2.85b5f1be.chunk.js",
+    "static/js/2.85b5f1be.chunk.js.map": "/my_app2020/static/js/2.85b5f1be.chunk.js.map",
+    "index.html": "/my_app2020/index.html",
+    "precache-manifest.570701f50f77f4cc8f9744e60f3c1f1c.js": "/my_app2020/precache-manifest.570701f50f77f4cc8f9744e60f3c1f1c.js",
+    "service-worker.js": "/my_app2020/service-worker.js",
+    "static/css/main.ddd4fcb3.chunk.css.map": "/my_app2020/static/css/main.ddd4fcb3.chunk.css.map",
+    "static/js/2.85b5f1be.chunk.js.LICENSE": "/my_app2020/static/js/2.85b5f1be.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.62c30c6f.js",
+    "static/js/runtime-main.2f1d4cf7.js",
     "static/js/2.85b5f1be.chunk.js",
     "static/css/main.ddd4fcb3.chunk.css",
     "static/js/main.1e0d9ba7.chunk.js"
